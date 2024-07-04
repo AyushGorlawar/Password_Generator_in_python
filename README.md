@@ -1,5 +1,4 @@
-# CODSOFT_Task03
-
+ 
 # Password Generator
 
 ## Overview
